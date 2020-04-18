@@ -3,3 +3,4 @@
 3. Ditto : https://ditto-cp.sourceforge.io/
 4. Wox : https://github.com/Wox-launcher/Wox
 5. ShareX : https://getsharex.com/
+6. EarTrumpet : https://github.com/File-New-Project/EarTrumpet
